@@ -1,0 +1,36 @@
+c:\users\yusuf\documents\visual studio 2015\Projects\hellory\hellory\bin\Debug\hellory.exe.config
+c:\users\yusuf\documents\visual studio 2015\Projects\hellory\hellory\obj\Debug\hellory.csprojResolveAssemblyReference.cache
+c:\users\yusuf\documents\visual studio 2015\Projects\hellory\hellory\obj\Debug\hellory.Form1.resources
+c:\users\yusuf\documents\visual studio 2015\Projects\hellory\hellory\obj\Debug\hellory.Properties.Resources.resources
+c:\users\yusuf\documents\visual studio 2015\Projects\hellory\hellory\obj\Debug\hellory.csproj.GenerateResource.Cache
+c:\users\yusuf\documents\visual studio 2015\Projects\hellory\hellory\bin\Debug\hellory.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\hellory\hellory\bin\Debug\hellory.pdb
+c:\users\yusuf\documents\visual studio 2015\Projects\hellory\hellory\obj\Debug\hellory.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\hellory\hellory\obj\Debug\hellory.pdb
+C:\Users\yusuf\Desktop\hellory\hellory\bin\Debug\hellory.exe.config
+C:\Users\yusuf\Desktop\hellory\hellory\bin\Debug\hellory.exe
+C:\Users\yusuf\Desktop\hellory\hellory\bin\Debug\hellory.pdb
+C:\Users\yusuf\Desktop\hellory\hellory\obj\Debug\hellory.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\hellory\hellory\obj\Debug\hellory.Form1.resources
+C:\Users\yusuf\Desktop\hellory\hellory\obj\Debug\hellory.Properties.Resources.resources
+C:\Users\yusuf\Desktop\hellory\hellory\obj\Debug\hellory.csproj.GenerateResource.Cache
+C:\Users\yusuf\Desktop\hellory\hellory\obj\Debug\hellory.exe
+C:\Users\yusuf\Desktop\hellory\hellory\obj\Debug\hellory.pdb
+C:\Users\yusuf\Desktop\SınamaOdev1Yusuf-Sami\hellory\hellory\bin\Debug\hellory.exe.config
+C:\Users\yusuf\Desktop\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.exe
+C:\Users\yusuf\Desktop\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.pdb
+C:\Users\yusuf\Desktop\SınamaOdev1Yusuf-Sami\hellory\hellory\bin\Debug\hellory.exe
+C:\Users\yusuf\Desktop\SınamaOdev1Yusuf-Sami\hellory\hellory\bin\Debug\hellory.pdb
+C:\Users\yusuf\Desktop\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.Form1.resources
+C:\Users\yusuf\Desktop\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.Properties.Resources.resources
+C:\Users\yusuf\Desktop\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.csproj.GenerateResource.Cache
+C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\bin\Debug\hellory.exe.config
+C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.exe
+C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.pdb
+C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\bin\Debug\hellory.exe
+C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\bin\Debug\hellory.pdb
+C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.csprojResolveAssemblyReference.cache
+C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.Form1.resources
+C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.Properties.Resources.resources
+C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.csproj.GenerateResource.Cache
