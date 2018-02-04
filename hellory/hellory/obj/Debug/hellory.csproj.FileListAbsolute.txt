@@ -34,3 +34,12 @@ C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sa
 C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.Form1.resources
 C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.Properties.Resources.resources
 C:\dis2\veriler\Dersler\3.sınıf 1.dönem\Sınama\ödevler\SınamaOdev1Yusuf-Sami\hellory\hellory\obj\Debug\hellory.csproj.GenerateResource.Cache
+C:\Users\recep.akgul\Desktop\yusuf\blackandwhitestonegame\hellory\hellory\bin\Debug\hellory.exe.config
+C:\Users\recep.akgul\Desktop\yusuf\blackandwhitestonegame\hellory\hellory\bin\Debug\hellory.exe
+C:\Users\recep.akgul\Desktop\yusuf\blackandwhitestonegame\hellory\hellory\bin\Debug\hellory.pdb
+C:\Users\recep.akgul\Desktop\yusuf\blackandwhitestonegame\hellory\hellory\obj\Debug\hellory.csprojResolveAssemblyReference.cache
+C:\Users\recep.akgul\Desktop\yusuf\blackandwhitestonegame\hellory\hellory\obj\Debug\hellory.Form1.resources
+C:\Users\recep.akgul\Desktop\yusuf\blackandwhitestonegame\hellory\hellory\obj\Debug\hellory.Properties.Resources.resources
+C:\Users\recep.akgul\Desktop\yusuf\blackandwhitestonegame\hellory\hellory\obj\Debug\hellory.csproj.GenerateResource.Cache
+C:\Users\recep.akgul\Desktop\yusuf\blackandwhitestonegame\hellory\hellory\obj\Debug\hellory.exe
+C:\Users\recep.akgul\Desktop\yusuf\blackandwhitestonegame\hellory\hellory\obj\Debug\hellory.pdb
